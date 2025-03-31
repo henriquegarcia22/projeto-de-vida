@@ -70,7 +70,8 @@ body {
 }
 @media screen and (minwidth : 760px) {
     .botoes:{flex;
-
+        botoes {
+            display: flex;
     }
     
 }
