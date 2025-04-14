@@ -85,3 +85,9 @@ body {
         background-color: var(--botao-ativo);
         border-bottom:4px solid var(--verde);
     }
+.aba-conteúdo.ativo{
+    display: block;
+}
+.aba-conteúdo.ativo{
+    display:none;
+}
